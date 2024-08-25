@@ -1,0 +1,6 @@
+flask-auth/lib64
+flask-auth/bin/*
+flask-auth/lib/*
+flask-auth/pyvenv.cfg
+flask-auth/include/site/python3.10/greenlet/greenlet.h
+instance/*
